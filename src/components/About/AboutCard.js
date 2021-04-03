@@ -19,7 +19,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <i className="far fa-hand-point-right"></i> Badminton
+              <i className="far fa-hand-point-right"></i> Sports
             </li>
             <li className="about-activity">
               <i className="far fa-hand-point-right"></i> Hackathons
